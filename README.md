@@ -24,7 +24,7 @@ design Nested RecylerView.
 - 01:02:45 Settup Adpater Recyclerview
 - 01:26:45 Membuat Fungsi Get Semua Data (All Item) Dari Server
 
-#codeathome #retrofit #kotlin #android #AndroidNative #Okhttp #restfullapi #retsapi #nestedrecylerview #developer #programing #constraintlayout
+#codeathome #retrofit #kotlin #android #AndroidNative #Okhttp #restfullapi #retsapi #nestedrecylerview #developer #programing #constraintlayout #todolist #todo
 
 
 ## DISCORD : https://discord.gg/8enGHX46
