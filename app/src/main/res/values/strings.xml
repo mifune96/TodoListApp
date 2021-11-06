@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="todo_list_app">Todo List App</string>
+    <string name="name_todo">name todo</string>
+    <string name="add_a_card">Add A Card</string>
+    <string name="simpan">Simpan</string>
+    <string name="ketik_disini">ketik disini</string>
+    <string name="batal">batal</string>
+    <string name="hapus">hapus</string>
+    <string name="update">update</string>
+</resources>
